@@ -1,3 +1,4 @@
 git learn.
 dev test.
 no fast forward.
+with fast forward.
