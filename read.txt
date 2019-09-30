@@ -2,4 +2,4 @@ git learn.
 dev test.
 no fast forward.
 with fast forward.
-bug branch.
+bug branch test.
